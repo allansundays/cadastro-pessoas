@@ -144,3 +144,5 @@ deactivate.bat
 
 clear
 clear.pub
+pip3.10.exe
+dotenv.exe
