@@ -141,3 +141,6 @@ activate
 activate.bat
 Activate.ps1
 deactivate.bat
+
+clear
+clear.pub
